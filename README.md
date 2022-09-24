@@ -8,9 +8,9 @@ But the game still allows you to use the crafting table for many things.  This d
 
 Now released for 1.19.
 
-[x] Stone cutter recipes
-[x] Cartography table recipes
-[x] Item repair
+- [x] Stone cutter recipes
+- [x] Cartography table recipes
+- [x] Item repair
 
 ## Stone Cutter Recipes
 
