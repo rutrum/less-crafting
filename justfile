@@ -16,3 +16,8 @@ clean:
 
 tree:
     tree -I {{datapack}}
+
+zip:
+    #!/bin/bash
+    cd less-crafting
+    zip -r ../less-crafting-mc1.19-v0.1.zip *

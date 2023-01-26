@@ -1,3 +1,6 @@
+map_cloning
+map_extending
+repair_item
 andesite_slab
 andesite_stairs
 andesite_wall
